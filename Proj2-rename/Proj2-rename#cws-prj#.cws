@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="8C164501-C564-A1EC-B7FF-0D0F2630B85B">
 	<DocumentID>8C164501-C564-A1EC-B7FF-0D0F2630785B</DocumentID>
-	<Name>Proj2</Name>
-	<Description>Proj2</Description>
+	<Name>Proj2-rename</Name>
+	<Description>Proj2-rename</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2022-05-30T09:40:37.487</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="8C164501-C564-A1EC-B7FF-0D0F262FF85B"
-			path="Proj2"
+			path="Proj2-rename"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="8C164501-C564-A1EC-B7FF-0D0F262D385B"
-							path="Proj2/en-US_8C164501-C564-A1EC-B7FF-0D0F262D385B"
+							path="Proj2-rename/en-US_8C164501-C564-A1EC-B7FF-0D0F262D385B"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="8C164501-C564-A1EC-B7FF-0D0F262E385B"
-					path="Proj2/TranslationInformation_8C164501-C564-A1EC-B7FF-0D0F262E385B"
+					path="Proj2-rename/TranslationInformation_8C164501-C564-A1EC-B7FF-0D0F262E385B"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
